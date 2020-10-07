@@ -1,0 +1,2 @@
+tsc server.ts
+node serevr.js
